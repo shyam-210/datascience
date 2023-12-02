@@ -1,0 +1,14 @@
+company,job,degree,salary more than 100k
+google,sales executive,bachelor,0
+google,sales executive,master,1
+google,business manager,master,1
+google,programmer,bachelor,0
+google,programmer,master,1
+FB,sales executive,bachelor,1
+FB,sales executive,master,1
+FB,business manager,master,1
+FB,programmer,master,1
+wipro,sales executive,master,1
+wipro,business manager,master,1
+wipro,programmer,bachelor,0
+wipro,programmer,master,1
